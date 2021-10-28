@@ -1,4 +1,4 @@
-# Utilizing Machining Learning to Predict NBA Scores
+# Utilizing Machine Learning to Predict NBA Scores
 
 ![image](https://user-images.githubusercontent.com/79603572/139289078-528110ad-bcd9-4c9a-9737-cdec72054902.png)
 
