@@ -2,9 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/79603572/139289078-528110ad-bcd9-4c9a-9737-cdec72054902.png)
 
-The sports world has not been an exception to the growing impact Data Science has had across the world in the last few decades. The 'Moneyball' Oakland A's are perhaps the most well-known example for their success in the early 2000's despite having one of the lowest payrolls in the MLB. The 2004-05 Phoenix Suns are another example of an early user of analytics to change their style of play. While those two examples were early to the wave of analytics, the rest of the sports world, and specifically the NBA did not take long to follow suit. Advanced metrics have shifted the NBA to higher-volume shooting, a strong emphasis on three-pointers and much higher scoring games. Here's a comparision chart of an average game in the NBA last season compared to 2001.
+The sports world has not been an exception to the growing impact Data Science has had across the world in the last few decades. The 'Moneyball' Oakland A's are perhaps the most well-known example for their success in the early 2000's despite having one of the lowest payrolls in the MLB. The 2004-05 Phoenix Suns are another example of an early user of analytics to change their style of play. While those two examples were early to the wave of analytics, the rest of the sports world, and specifically the NBA did not take long to follow suit. Advanced metrics have shifted the way Basketball is played in the NBA, leading to a higher concentration in 3 pointers and a focus on putting up more shots. Here's a comparision chart of an average game in the NBA last season compared to 2001.
 
 ![image](https://user-images.githubusercontent.com/79603572/139291060-1ff3a229-6e20-4db7-8506-2f0a2366479f.png)
+
+As you can see, on average there are more points, 3 point attempts and possessions in an average game now compared to 2001 one. Let's now look at the difference in shot selection between some top players today versus the pre analytics era.
+
+![image](https://user-images.githubusercontent.com/79603572/150427089-d71326c9-b790-4c80-806b-3ac407ba00c3.png)
+![image](https://user-images.githubusercontent.com/79603572/150427108-6f687ce1-993a-4bd2-990d-518093709a16.png)
 
 # Business Problem
 
